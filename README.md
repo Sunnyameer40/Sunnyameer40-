@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunny Sharma
+# Hi, I'm Sunny Sharma
 
 ### Senior UI Developer | React.js • Next.js • TypeScript • AEM • GraphQL
 
